@@ -28,4 +28,10 @@ python login.py
 python main.py
 ```
 
-# 提示：运行过程中不要打开Chrome和Excel
+## 提示：运行过程中不要打开Chrome和Excel，否则出现如下报错：
+![Uploading image.png…]()
+
+
+
+
+
